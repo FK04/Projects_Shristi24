@@ -1,0 +1,50 @@
+path: C:/Users/fouza/Desktop/F.K/AI--ML/Obejct-Detection/data  # dataset root dir
+train: images/train/  # train images (relative to 'path')
+val: images/train/  # val images (relative to 'path')
+
+# Classes
+names:
+  0: cat
+  1: dog
+  2: buffalo
+  3: fox
+  4: horse
+  5: wolf
+  6: yalk
+  7: camel
+  8: rabbit
+  9: monkey
+  10: human
+  11: beaver
+  12: Animal
+  13: bird
+  14: deer
+  15: tsessebe
+  16: lizard
+  17: bull
+  18: boar
+  19: goat
+  20: insects
+  21: squirrel
+  22: caterpillar
+  23: cow
+  24: wildebeest
+  25: zebra
+  26: mongoose
+  27: donkey
+  28: mink
+  29: meerkat
+  30: hyena
+  31: fish
+  32: dolphin
+  33: whale
+  34: shark
+  35: frog
+  36: raccon
+  37: crab
+  38: alpaca
+  39: ostrich
+  40: mouse
+  41: panda
+  42: ox
+  43: bear
